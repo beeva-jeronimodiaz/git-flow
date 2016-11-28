@@ -1,0 +1,7 @@
+git clone
+git add
+git commit
+git status
+git branch
+git checkout
+git log --all --oneline --graph
